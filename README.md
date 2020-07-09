@@ -1,5 +1,5 @@
 # hello there
-gay furry who likes to code and play video games
+Hi, I am a gay furry who likes to code and play video games for some reason. I know JavaScript, TypeScript, C#, Kotlin, Java, and Python.
 
 ## Maintained Projects
 > **Updated since 9/7/2020**
