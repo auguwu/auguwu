@@ -1,5 +1,5 @@
 # hello there 👋
-Hi, my name is Chris (known as August/auguwu online) and I am a 16 year old "fullstack" developer. I like [music](https://last.fm/users/auguwu), coding, and playing [video games](https://steamcommunity.com/id/auguwu/)
+Hi, my name is Chris (known as August/auguwu online) and I am a 16 year old "fullstack" developer. I like [music](https://last.fm/user/auguwu), coding, and playing [video games](https://steamcommunity.com/id/auguwu/)
 
 ## Fun Facts
 - I am a furry
