@@ -1,15 +1,18 @@
-# welcome 👋
-[![Discord (Status)](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/280158289667555328?simple=true&logo=discord&logoColor=white&color=43B581)](https://discord.gg/yDnbEDH) [![Discord (Playing)](https://img.shields.io/endpoint?label=Currently%20Doing&url=https://dev.discordprofiles.me/api/badge/playing/280158289667555328?vscode=false&color=8A96E9)](https://discord.gg/yDnbEDH) ![Discord (Spotify)](https://img.shields.io/endpoint?label=Listening%20To&url=https://dev.discordprofiles.me/api/badge/spotify/280158289667555328&color=1ED45F)
+# Hi! 👋
+![Discord (Status)](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/280158289667555328?simple=true&logo=discord&logoColor=white&color=43B581) ![Discord (Spotify)](https://img.shields.io/endpoint?label=Listening%20To&url=https://dev.discordprofiles.me/api/badge/spotify/280158289667555328&color=1ED45F)
 
-Hi, my name is Chris (known as August/auguwu online) and I am a 16 year old "fullstack" developer. I like [music](https://last.fm/user/auguwu), [coding](https://wakatime.com/@auguwu), and playing [video games](https://steamcommunity.com/id/auguwu/).
+Hi, my name is Chris (known as August or auguwu online) and I am a 16 year old "fullstack" developer. I like [music](https://last.fm/user/auguwu), [coding](https://wakatime.com/@auguwu), and playing [video games](https://steamcommunity.com/id/auguwu/)!
+
+<!-- Credit: https://github.com/anuraghazra/github-readme-stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=auguwu&count_private=true&show_icons=true&theme=dracula)
 
 ## Fun Facts
 - I know the following languages: JavaScript, TypeScript, C#, Kotlin, Java, and Python
-- I plan to learn in the near future: Rust, Go, C++, and Dart
+- I plan to learn in the near future: Rust, Go, C++
 - I work on too many stuff and never get them finished
 - You can reach me on [Twitter](https://twitter.com/auguuwu), on my [Discord](https://discord.gg/yDnbEDH) server, or on [Telegram](https://t.me/auguwu)
 - I am a GitHub Sponsor, feel free to donate if you wanna support me and my dumb projects!
-- My pronouns are **He/Him** or **They/Them**
+- My pronouns are **He or Him**
 
 ## Maintained Projects
 > **Updated since August 3rd, 2020**
