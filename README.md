@@ -5,7 +5,7 @@ Hi, my name is Chris (known as August or auguwu online) and I am a 16 year old "
 
 <!-- Credit: https://github.com/anuraghazra/github-readme-stats -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=auguwu&count_private=true&show_icons=true&theme=dracula)
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=auguwu&compat=true)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=auguwu&compat=true&theme=dracula)
 
 ## Fun Facts
 - I know the following languages: JavaScript, TypeScript, C#, Kotlin, Java, and Python; I prefer TypeScript and Kotlin.
