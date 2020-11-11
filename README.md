@@ -1,5 +1,5 @@
 # Welcome 👋
-![Discord (Status)](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/280158289667555328?simple=true&logo=discord&logoColor=white&color=43B581) ![Discord (Spotify)](https://img.shields.io/endpoint?label=Listening%20To&url=https://dev.discordprofiles.me/api/badge/spotify/280158289667555328&color=1ED45F) ![Profile Views](https://komarev.com/ghpvc/?username=auguwu)
+![Discord (Spotify)](https://img.shields.io/endpoint?label=Listening%20To&url=https://dev.discordprofiles.me/api/badge/spotify/280158289667555328&color=1ED45F) ![Profile Views](https://komarev.com/ghpvc/?username=auguwu)
 
 Hi, my name is Chris (known as August or auguwu online) and I am a 16 year old "fullstack" developer. I like [music](https://last.fm/user/auguwu), [coding](https://wakatime.com/@auguwu), and playing [video games](https://steamcommunity.com/id/auguwu)!
 
