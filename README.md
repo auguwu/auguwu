@@ -15,9 +15,10 @@ Hi, my name is Chris (known as August or auguwu online) and I am a 16 year old "
 - Pronouns are He/Him
 
 ## Maintained Projects
-> **Updated since November 5th, 2020**
+> **Updated since November 23th, 2020**
 
 - [profile.place](https://profile.place) (Frontend) - **All your social profiles in one place :)** [Work in Progress]
 - [PressFBot](https://github.com/auguwu/PressFBot) - **Ever wanted to pay respect? Well, with PressFBot you can do it with just one character!**
 - [Nino](https://github.com/NinoDiscord/Nino) (Bot, Backend, Frontend) - **Advanced and cute moderation discord bot as an entry of Discord's Hack Week!**
-- [Monori](https://github.com/monori-site) (Backend) - **Simple and open-source translation site for everyone to use, for free.** [Work in Progress]
+- [Arisu (orignally Monori)](https://github.com/arisuland) (Backend) - **Simple and open-source translation site for everyone to use, for free.** [Work in Progress]
+- [Furry Bot](https://furry.bot) (Bot, Dashboard) - **A fun multi-purpose bot for (furry) Discord servers!**
