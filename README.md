@@ -8,8 +8,8 @@ Hi, my name is Chris (known as August or auguwu online) and I am a 16 year old "
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=auguwu&compat=true&theme=dracula)
 
 ## Fun Facts
-- I know the following languages: JavaScript, TypeScript, C#, Kotlin, Java, and Python; I prefer TypeScript and Kotlin.
-- I plan to learn in the near future: Rust, Go, C++
+- I know the following languages: JavaScript, TypeScript, C#, Kotlin, Java, and Python. I prefer TypeScript and Kotlin.
+- I plan to learn in the near future: Rust, Go, C++, Elixir
 - I work on too many stuff and never get them finished
 - You can reach me on [Twitter](https://twitter.com/auguuwu), on my [Discord](https://discord.gg/yDnbEDH) server, or on [Telegram](https://t.me/auguwu). I best respond on Discord and Telegram
 - Pronouns are He/Him
