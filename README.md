@@ -22,3 +22,4 @@ Hi, my name is Chris (known as August or auguwu online) and I am a 16 year old "
 - [Nino](https://github.com/NinoDiscord/Nino) (Bot, Backend, Frontend) - **Advanced and cute moderation discord bot as an entry of Discord's Hack Week!**
 - [Arisu (orignally Monori)](https://github.com/arisuland) (Backend) - **Simple and open-source translation site for everyone to use, for free.** [Work in Progress]
 - [Furry Bot](https://furry.bot) (Bot, Dashboard) - **A fun multi-purpose bot for (furry) Discord servers!**
+- [Wumpcord](https://github.com/auguwu/Wumpcord) - **Flexible, and type-safe Discord API library made in TypeScript**
