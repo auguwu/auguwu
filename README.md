@@ -3,6 +3,8 @@
 
 Hi, my name is Chris (known as August or auguwu online) and I am a 16 year old "fullstack" developer. I like [music](https://last.fm/user/auguwu), [coding](https://wakatime.com/@auguwu), and playing [video games](https://steamcommunity.com/id/auguwu)!
 
+For more in-depth information about myself, you can visit my [website](https://floofy.dev) for more information! :)
+
 <!-- Credit: https://github.com/anuraghazra/github-readme-stats -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=auguwu&count_private=true&show_icons=true&theme=dracula)
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=auguwu&compat=true&theme=dracula)
@@ -11,7 +13,7 @@ Hi, my name is Chris (known as August or auguwu online) and I am a 16 year old "
 - I know the following languages: JavaScript, TypeScript, C#, Kotlin, Java, and Python. I prefer TypeScript and Kotlin.
 - I plan to learn in the near future: Rust, Go, C++, Elixir
 - I work on too many stuff and never get them finished
-- You can reach me on [Twitter](https://twitter.com/auguuwu), on my [Discord](https://discord.gg/yDnbEDH) server, or on [Telegram](https://t.me/auguwu). I best respond on Discord and Telegram
+- You can reach me on Discord (**August#5820**) or on [Telegram](https://t.me/auguwu)
 - Pronouns are He/Him
 
 ## Maintained Projects
