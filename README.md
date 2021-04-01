@@ -1,7 +1,7 @@
 # Welcome 👋
 ![Discord (Status)](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/280158289667555328?simple=true&logo=discord&logoColor=white&color=43B581) ![Discord (Spotify)](https://img.shields.io/endpoint?label=Listening%20To&url=https://dev.discordprofiles.me/api/badge/spotify/280158289667555328&color=1ED45F) ![Profile Views](https://komarev.com/ghpvc/?username=auguwu)
 
-Hi, my name is Chris (known as August or auguwu online) and I am a 16 year old "fullstack" developer. I like [music](https://last.fm/user/auguwu), [coding](https://wakatime.com/@auguwu), and playing [video games](https://steamcommunity.com/id/auguwu)!
+Hi, my name is Chris and I am a 17 year old developer and student. I like [music](https://last.fm/user/auguwu), [coding](https://wakatime.com/@auguwu), and playing [video games](https://steamcommunity.com/id/auguwu)!
 
 For more in-depth information about myself, you can visit my [website](https://floofy.dev) for more information! :)
 
@@ -22,6 +22,6 @@ For more in-depth information about myself, you can visit my [website](https://f
 - [profile.place](https://profile.place) (Frontend) - **All your social profiles in one place :)** [Work in Progress]
 - [PressFBot](https://github.com/auguwu/PressFBot) - **Ever wanted to pay respect? Well, with PressFBot you can do it with just one character!**
 - [Nino](https://github.com/NinoDiscord/Nino) (Bot, Backend, Frontend) - **Advanced and cute moderation discord bot as an entry of Discord's Hack Week!**
-- [Arisu (orignally Monori)](https://github.com/arisuland) (Backend) - **Simple and open-source translation site for everyone to use, for free.** [Work in Progress]
+- [Arisu](https://github.com/arisuland) (Backend) - **Simple and open-source translation site for everyone to use, for free.** [Work in Progress]
 - [Furry Bot](https://furry.bot) (Bot, Dashboard) - **A fun multi-purpose bot for (furry) Discord servers!**
 - [Wumpcord](https://github.com/auguwu/Wumpcord) - **Flexible, and type-safe Discord API library made in TypeScript**
