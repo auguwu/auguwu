@@ -1,9 +1,7 @@
 # Welcome 👋
-![Discord (Status)](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/280158289667555328?simple=true&logo=discord&logoColor=white&color=43B581) ![Discord (Spotify)](https://img.shields.io/endpoint?label=Listening%20To&url=https://dev.discordprofiles.me/api/badge/spotify/280158289667555328&color=1ED45F) ![Profile Views](https://komarev.com/ghpvc/?username=auguwu)
+![Discord (Status)](https://nocache.advaith.workers.dev/?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/280158289667555328?simple=true&logo=discord&logoColor=white&color=43B581) ![Discord (Spotify)](https://nocache.advaith.workers.dev/?url=https://img.shields.io/endpoint?label=Listening%20To&url=https://dev.discordprofiles.me/api/badge/spotify/280158289667555328&color=1ED45F) ![Profile Views](https://komarev.com/ghpvc/?username=auguwu) <small>*blep blep*</small> ![VSCode owo](https://nocache.advaith.workers.dev/?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/280158289667555328)
 
 Hi, my name is Chris and I am a 17 year old developer and student. I like [music](https://last.fm/user/auguwu), [coding](https://wakatime.com/@auguwu), and playing [video games](https://steamcommunity.com/id/auguwu)!
-
-For more in-depth information about myself, you can visit my [website](https://floofy.dev) for more information! :)
 
 <!-- Credit: https://github.com/anuraghazra/github-readme-stats -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=auguwu&count_private=true&show_icons=true&theme=dracula)
