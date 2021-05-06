@@ -17,11 +17,8 @@ Hi, my name is Chris and I am a 17 year old developer and student. I like [music
 - Pronouns are He/Him
 
 ## Maintained Projects
-> **Updated since November 23th, 2020**
+> **Updated since May 6th, 2021**
 
-- [profile.place](https://profile.place) (Frontend) - **All your social profiles in one place :)** [Work in Progress]
-- [PressFBot](https://github.com/auguwu/PressFBot) - **Ever wanted to pay respect? Well, with PressFBot you can do it with just one character!**
 - [Nino](https://github.com/NinoDiscord/Nino) (Bot, Backend, Frontend) - **Advanced and cute moderation discord bot as an entry of Discord's Hack Week!**
 - [Arisu](https://github.com/arisuland) (Backend) - **Simple and open-source translation site for everyone to use, for free.** [Work in Progress]
-- [Furry Bot](https://furry.bot) (Bot, Dashboard) - **A fun multi-purpose bot for (furry) Discord servers!**
 - [Wumpcord](https://github.com/auguwu/Wumpcord) - **Flexible, and type-safe Discord API library made in TypeScript**
