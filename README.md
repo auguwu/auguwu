@@ -1,24 +1,38 @@
-# Welcome 👋
-<small>*blep blep*</small>
+<div id='align'>
+  <h1>~ 🌺🐾 Noel 🐾🌺 ~</h1>
+  <p>•────────────ღ 💜 ღ────────────• </p>
+  <blockquote><strong>Student, Developer in the United States creating projects no one will use except for myself. (^・ω・^ )</strong></blockquote>
 
-![Discord (Status)](https://nocache.advaith.workers.dev/?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/280158289667555328) ![Discord (Status)](https://nocache.advaith.workers.dev/?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/280158289667555328) ![Discord (Spotify)](https://nocache.advaith.workers.dev/?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/280158289667555328) ![Profile Views](https://komarev.com/ghpvc/?username=auguwu) ![VSCode owo](https://nocache.advaith.workers.dev/?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/280158289667555328) ![intellij uwu](https://nocache.advaith.workers.dev/?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/intellij/280158289667555328)
+  <br />
 
-Hi, my name is Chris and I am a 17 year old developer and student. I like [music](https://last.fm/user/auguwu), [coding](https://wakatime.com/@auguwu), and playing [video games](https://steamcommunity.com/id/auguwu)!
+  <a href="#">
+    <img alt="discord status" src="https://nocache.advaith.workers.dev/?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/280158289667555328" />
+  </a>
 
-<!-- Credit: https://github.com/anuraghazra/github-readme-stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=auguwu&count_private=true&show_icons=true&theme=dracula)
+  <a href="#">
+    <img alt="what the hell i am listening to" src="https://nocache.advaith.workers.dev/?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/280158289667555328" />
+  </a>
+
+  <a href="#">
+    <img alt="who viewed me owo" src="https://komarev.com/ghpvc/?username=auguwu" />
+  </a>
+</div>
+
+<hr />
+
+Hewo! I am Chris or Noel. I am a 17 year old developer and student. I like [music](https://last.fm/user/auguwu), [coding](https://wakatime.com/@auguwu), and playing [video games](https://steamcommunity.com/id/auguwu)!
+
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=auguwu&compat=true&theme=dracula)
 
-## Fun Facts
-- I know the following languages: JavaScript, TypeScript, C#, Kotlin, Java, and Python. I prefer TypeScript and Kotlin.
-- I plan to learn in the near future: Rust, Go, C++, Elixir
-- I work on too many stuff and never get them finished
-- You can reach me on Discord (**August#5820**) or on [Telegram](https://t.me/auguwu)
-- Pronouns are He/Him
-
-## Maintained Projects
-> **Updated since May 6th, 2021**
-
+## Maintained Projects (since May 6th, 2021)
 - [Nino](https://github.com/NinoDiscord/Nino) (Bot, Backend, Frontend) - **Advanced and cute moderation discord bot as an entry of Discord's Hack Week!**
-- [Arisu](https://github.com/arisuland) (Backend) - **Simple and open-source translation site for everyone to use, for free.** [Work in Progress]
-- [Wumpcord](https://github.com/auguwu/Wumpcord) - **Flexible, and type-safe Discord API library made in TypeScript**
+  - Role: **Project Lead, Lead Developer**
+
+- [Arisu](https://github.com/arisuland): - **Simple and open-source translation site for everyone to use, for free.** [Work in Progress]
+  - Role: **Project Lead, Backend, Frontend**
+
+- [Wumpcord](https://github.com/auguwu/Wumpcord): **Flexible, and type-safe Discord API library made in TypeScript**
+  - Role: **Maintaining**
+
+- [profile.place](https://profile.place): **All your social profiles in one place.**
+  - Role: **Frontend**
