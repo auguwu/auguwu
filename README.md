@@ -1,4 +1,4 @@
-<div id='align'>
+<div align='center'>
   <h1>~ 🌺🐾 Noel 🐾🌺 ~</h1>
   <p>•────────────ღ 💜 ღ────────────• </p>
   <blockquote><strong>Student, Developer in the United States creating projects no one will use except for myself. (^・ω・^ )</strong></blockquote>
