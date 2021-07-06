@@ -1,21 +1,14 @@
 <div align='center'>
   <h1>~ 🌺🐾 Noel 🐾🌺 ~</h1>
   <p>•────────────ღ 💜 ღ────────────• </p>
-  <blockquote><strong>Student, Developer in the United States creating projects no one will use except for myself. (^・ω・^ )</strong></blockquote>
+  <blockquote><strong>Student, Developer in the United States creating projects no one will use except for myself. o((*^▽^*))o</strong></blockquote>
 
   <br />
 
-  <a href="#">
-    <img alt="discord status" src="https://nocache.advaith.workers.dev/?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/280158289667555328" />
-  </a>
-
-  <a href="#">
-    <img alt="what the hell i am listening to" src="https://nocache.advaith.workers.dev/?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/280158289667555328" />
-  </a>
-
-  <a href="#">
-    <img alt="who viewed me owo" src="https://komarev.com/ghpvc/?username=auguwu" />
-  </a>
+  <img alt="discord status" src="https://nocache.advaith.workers.dev/?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/280158289667555328" />
+  <img alt="what the hell i am listening to" src="https://nocache.advaith.workers.dev/?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/280158289667555328" />
+  <img alt="who viewed me owo" src="https://komarev.com/ghpvc/?username=auguwu" />
+  <img alt='Pronouns' src='https://img.shields.io/endpoint?url=https://pronoundb.org/shields/6004d014406af11e4593a013' />
 </div>
 
 <hr />
@@ -34,5 +27,5 @@ Hewo! I am Chris or Noel. I am a 17 year old developer and student. I like [musi
 - [Wumpcord](https://github.com/auguwu/Wumpcord): **Flexible, and type-safe Discord API library made in TypeScript**
   - Role: **Maintaining**
 
-- [profile.place](https://profile.place): **All your social profiles in one place.**
+- [profile.place](https://profile.place): **All your social profiles in one place.** [Work in Progress]
   - Role: **Frontend**
