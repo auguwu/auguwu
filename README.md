@@ -17,15 +17,12 @@ Hewo! I am Chris or Noel. I am a 17 year old developer and student. I like [musi
 
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=auguwu&compat=true&theme=dracula)
 
-## Maintained Projects (since May 6th, 2021)
+## Maintained Projects (since July 9th, 2021)
 - [Nino](https://github.com/NinoDiscord/Nino) (Bot, Backend, Frontend) - **Advanced and cute moderation discord bot as an entry of Discord's Hack Week!**
   - Role: **Project Lead, Lead Developer**
 
 - [Arisu](https://github.com/arisuland): - **Simple and open-source translation site for everyone to use, for free.** [Work in Progress]
   - Role: **Project Lead, Backend, Frontend**
-
-- [Wumpcord](https://github.com/auguwu/Wumpcord): **Flexible, and type-safe Discord API library made in TypeScript**
-  - Role: **Maintaining**
 
 - [profile.place](https://profile.place): **All your social profiles in one place.** [Work in Progress]
   - Role: **Frontend**
