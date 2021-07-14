@@ -1,6 +1,14 @@
+<div align='left'>
+  <img
+    src='https://cdn.floofy.dev/images/trans.png'
+    style='border-radius: 50%;'
+    width='138'
+    height='138'
+  />
+</div>
+
 <div align='center'>
-  <h1>~ 🌺🐾 Noel 🐾🌺 ~</h1>
-  <p>•────────────ღ 💜 ღ────────────• </p>
+  <h1>Noel 🐾🌺</h1>
   <blockquote><strong>Student, Developer in the United States creating projects no one will use except for myself. o((*^▽^*))o</strong></blockquote>
 
   <br />
@@ -15,8 +23,6 @@
 
 Hewo! I am Chris or Noel. I am a 17 year old developer and student. I like [music](https://last.fm/user/auguwu), [coding](https://wakatime.com/@auguwu), and playing [video games](https://steamcommunity.com/id/auguwu)!
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=auguwu&compat=true&theme=dracula)
-
 ## Maintained Projects (since July 9th, 2021)
 - [Nino](https://github.com/NinoDiscord/Nino) (Bot, Backend, Frontend) - **Advanced and cute moderation discord bot as an entry of Discord's Hack Week!**
   - Role: **Project Lead, Lead Developer**
@@ -26,3 +32,5 @@ Hewo! I am Chris or Noel. I am a 17 year old developer and student. I like [musi
 
 - [profile.place](https://profile.place): **All your social profiles in one place.** [Work in Progress]
   - Role: **Frontend**
+
+![gh metrics](./github-metrics.svg)
