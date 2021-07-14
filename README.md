@@ -33,4 +33,6 @@ Hewo! I am Chris or Noel. I am a 17 year old developer and student. I like [musi
 - [profile.place](https://profile.place): **All your social profiles in one place.** [Work in Progress]
   - Role: **Frontend**
 
-![gh metrics](./github-metrics.svg)
+<div align='center'>
+  <img src='./github-metrics.svg' alt='peepee poopoo' />
+</div>
