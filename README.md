@@ -1,13 +1,13 @@
-<div align='left'>
-  <img
-    src='https://cdn.floofy.dev/images/trans.png'
-    style='border-radius: 50%;'
-    width='138'
-    height='138'
-  />
-</div>
-
 <div align='center'>
+  <div align='left'>
+    <img
+      src='https://cdn.floofy.dev/images/trans.png'
+      style='border-radius: 50%;'
+      width='138'
+      height='138'
+    />
+  </div>
+
   <h1>Noel 🐾🌺</h1>
   <blockquote><strong>Student, Developer in the United States creating projects no one will use except for myself. o((*^▽^*))o</strong></blockquote>
 
