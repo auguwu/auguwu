@@ -13,8 +13,8 @@
 
   <br />
 
-  <img alt="discord status" src="https://nocache.advaith.workers.dev/?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/280158289667555328" />
-  <img alt="what the hell i am listening to" src="https://nocache.advaith.workers.dev/?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/280158289667555328" />
+  <img alt="discord status" src="https://nocache.advaith.workers.dev/?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/badge/status/280158289667555328" />
+  <img alt="what the hell i am listening to" src="https://nocache.advaith.workers.dev/?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/badge/spotify/280158289667555328" />
   <img alt="who viewed me owo" src="https://komarev.com/ghpvc/?username=auguwu" />
   <img alt='Pronouns' src='https://img.shields.io/endpoint?url=https://pronoundb.org/shields/6004d014406af11e4593a013' />
 </div>
