@@ -1,19 +1,17 @@
 <div align='center'>
-  <div align='left'>
+  <h1>Noel 🐾 <div align='right'>
     <img
       src='https://cdn.floofy.dev/images/trans.png'
       style='border-radius: 50%;'
       width='138'
       height='138'
     />
-  </div>
-
-  <h1>Noel 🐾🌺</h1>
+  </div></h1>
   <blockquote><strong>Student, Developer in the United States creating projects no one will use except for myself. o((*^▽^*))o</strong></blockquote>
 
   <br />
 
-  <img alt="discord status" src="https://dev.discordprofiles.me/badge/status/280158289667555328" />
+  <a href='https://discord.com/users/280158289667555328' target='_blank'><img alt="discord status" src="https://dev.discordprofiles.me/badge/status/280158289667555328" /></a>
   <img alt="what the hell i am listening to" src="https://dev.discordprofiles.me/badge/spotify/280158289667555328" />
   <img alt="who viewed me owo" src="https://komarev.com/ghpvc/?username=auguwu" />
   <img alt='Pronouns' src='https://img.shields.io/endpoint?url=https://pronoundb.org/shields/6004d014406af11e4593a013' />
