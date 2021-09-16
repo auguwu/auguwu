@@ -1,13 +1,14 @@
 <div align='center'>
-  <h1>Noel 🐾 <div align='right'>
+  <div align='right'>
     <img
       src='https://cdn.floofy.dev/images/trans.png'
       style='border-radius: 50%;'
       width='138'
       height='138'
     />
-  </div></h1>
-  <blockquote><strong>Student, Developer in the United States creating projects no one will use except for myself. o((*^▽^*))o</strong></blockquote>
+  </div>
+  <h1>Noel 🐾</h1>
+  <blockquote><strong>17 year old fullstack developer doing the things he loves. ヽ(o＾▽＾o)ノ</strong></blockquote>
 
   <br />
 
