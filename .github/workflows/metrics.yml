@@ -26,7 +26,6 @@ jobs:
           plugin_languages_limit: 20
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          plugin_languages_indepth: yes
           plugin_music: yes
           plugin_music_limit: 5
           plugin_music_playlist: https://open.spotify.com/embed/playlist/6iuNlpFcsNrn1ICunlvAAi?theme=0
@@ -38,4 +37,4 @@ jobs:
           plugin_wakatime_sections: time, projects, projects-graphs
           plugin_wakatime_limit: 4
           plugin_wakatime_url: https://wakatime.com
-          plugin_wakatime_user: .user.login
+          plugin_wakatime_user: auguwu
