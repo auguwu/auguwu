@@ -1,14 +1,13 @@
 <div align='center'>
-  <div align='right'>
+  <div align='center'>
     <img
-      src='https://cdn.floofy.dev/images/trans.png'
-      style='border-radius: 50%;'
+      src='https://cdn.floofy.dev/art/icons/icon_cinnamonserval.png'
       width='138'
       height='138'
     />
   </div>
   <h1>Noel 🐾</h1>
-  <blockquote><strong>17 year old fullstack developer doing the things he loves. ヽ(o＾▽＾o)ノ</strong></blockquote>
+  <blockquote><strong>(´｡• ω •｡`) Fullstack and web developer doing the things he loves</strong></blockquote>
 
   <br />
 
@@ -20,18 +19,31 @@
 
 <hr />
 
-Hewo! I am Chris or Noel. I am a 17 year old developer and student. I like [music](https://last.fm/user/auguwu), [coding](https://wakatime.com/@auguwu), and playing [video games](https://steamcommunity.com/id/auguwu)!
+Hewwo! I am **Noel** (or Chris) and I am an ordinary self-taught developer and students residenting in America. Thanks for visiting my GitHub page! ヽ(⌒▽⌒)ﾉ
 
-## Maintained Projects (since July 9th, 2021)
-- [Nino](https://github.com/NinoDiscord/Nino) (Bot, Backend, Frontend) - **Advanced and cute moderation discord bot as an entry of Discord's Hack Week!**
-  - Role: **Project Lead, Lead Developer**
+## What do you do?
+I mainly maintain and create my own projects as of late, but I only jumped aboard on one project which will be discussed later! I only create projects
+solo since I don't really have anyone to help me with creating or maintaining these projects.
 
-- [Arisu](https://github.com/arisuland): - **Simple and open-source translation site for everyone to use, for free.** [Work in Progress]
-  - Role: **Project Lead, Backend, Frontend**
+## Notable Projects (since 09/07/21)
+- [**Nino**](https://nino.sh) ~ Advanced and cute moderation discord bot as an entry of Discord's Hack Week!
+  - Roles: **Project Lead**, **Main Developer**
+  - Languages: **Kotlin**, **Go**, and **Rust**
 
-- [profile.place](https://profile.place): **All your social profiles in one place.** [Work in Progress]
-  - Role: **Frontend**
+- [**Arisu**](https://arisu.land) [WIP] ~ OSS, robust, and simple translation site with a friendly developer interface.
+  - Roles: **Project Lead**, **Main Developer**
+  - Languages: **TypeScript**, **Go**, **Rust**, **Elixir**
 
-<div align='center'>
-  <img src='./github-metrics.svg' alt='peepee poopoo' />
-</div>
+- [**profile.place**](https://profile.place) [WIP] ~ All your social profiles in one place. o(〃＾▽＾〃)o
+  - Roles: **Frontend**
+  - Languages: **TypeScript**
+
+---
+
+Thanks for reading this modal I guess? Below are some statistics through out my GitHub life-span.
+
+![](https://github-readme-stats.vercel.app/api?username=auguwu&count_private=true&show_icons=true&theme=gruvbox)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=auguwu&layout=compact)
+
+![](./github-metrics.svg)
