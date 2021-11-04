@@ -44,6 +44,6 @@ Thanks for reading this modal I guess? Below are some statistics through out my 
 
 ![](https://github-readme-stats.vercel.app/api?username=auguwu&count_private=true&show_icons=true&theme=gruvbox)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=auguwu&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=auguwu&layout=compact&theme=gruvbox)
 
 ![](./github-metrics.svg)
