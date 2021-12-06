@@ -46,4 +46,7 @@ Thanks for reading this modal I guess? Below are some statistics through out my 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=auguwu&layout=compact&theme=gruvbox)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ![](./github-metrics.svg)
