@@ -47,8 +47,6 @@ Thanks for reading this modal I guess? Below are some statistics through out my 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=auguwu&layout=compact&theme=gruvbox)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C481%20hrs%2021%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 🏆 2,665 Contributions in the Year 2021
