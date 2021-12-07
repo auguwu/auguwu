@@ -51,7 +51,7 @@ Thanks for reading this modal I guess? Below are some statistics through out my 
 
 **🐱 My GitHub Data** 
 
-> 🏆 2,684 Contributions in the Year 2021
+> 🏆 2,685 Contributions in the Year 2021
  > 
 > 📦 1.7 MB Used in GitHub's Storage 
  > 
