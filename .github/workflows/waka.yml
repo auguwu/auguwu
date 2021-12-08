@@ -13,4 +13,4 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME }}
           GH_TOKEN: ${{ secrets.METRICS }}
           COMMIT_BY_ME: "True"
-          SHOW_PROFILE_VIEWS: "False"
+          # SHOW_PROFILE_VIEWS: "False"
