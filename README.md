@@ -49,9 +49,11 @@ Thanks for reading this modal I guess? Below are some statistics through out my 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C481%20hrs%2021%20mins-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
+
 **🐱 My GitHub Data** 
 
-> 🏆 2,705 Contributions in the Year 2021
+> 🏆 2,707 Contributions in the Year 2021
  > 
 > 📦 1.7 MB Used in GitHub's Storage 
  > 
