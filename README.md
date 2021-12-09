@@ -53,7 +53,7 @@ Thanks for reading this modal I guess? Below are some statistics through out my 
 
 **🐱 My GitHub Data** 
 
-> 🏆 2,714 Contributions in the Year 2021
+> 🏆 2,715 Contributions in the Year 2021
  > 
 > 📦 1.7 MB Used in GitHub's Storage 
  > 
@@ -131,7 +131,7 @@ Python                   4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/auguwu/auguwu/master/charts/bar_graph.png) 
 
 
- Last Updated on 08/12/2021
+ Last Updated on 09/12/2021
 <!--END_SECTION:waka-->
 
 ![](./github-metrics.svg)
