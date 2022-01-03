@@ -15,6 +15,9 @@
   <img alt="what the hell i am listening to" src="https://dev.discordprofiles.me/badge/spotify/280158289667555328" />
   <img alt="who viewed me owo" src="https://komarev.com/ghpvc/?username=auguwu" />
   <img alt='Pronouns' src='https://img.shields.io/endpoint?url=https://pronoundb.org/shields/6004d014406af11e4593a013' />
+  <a href="https://wakatime.com/@auguwu" target='_blank'>
+    <img alt='wakatime res' src='https://wakatime.com/badge/user/89736485-42ec-4c0f-a2f3-481db74514dc.svg' />
+  </a>
 </div>
 
 <hr />
@@ -25,14 +28,14 @@ Hewwo! I am **Noel** (or Chris) and I am an ordinary self-taught developer and s
 I mainly maintain and create my own projects as of late, but I only jumped aboard on one project which will be discussed later! I only create projects
 solo since I don't really have anyone to help me with creating or maintaining these projects.
 
-## Notable Projects (since 09/07/21)
+## Projects (since July 9th, 2021)
 - [**Nino**](https://nino.sh) ~ Advanced and cute moderation discord bot as an entry of Discord's Hack Week!
   - Roles: **Project Lead**, **Main Developer**
-  - Languages: **Kotlin**, **Go**, and **Rust**
+  - Languages: **Kotlin** + **Go**
 
 - [**Arisu**](https://arisu.land) [WIP] ~ OSS, robust, and simple translation site with a friendly developer interface.
   - Roles: **Project Lead**, **Main Developer**
-  - Languages: **TypeScript**, **Go**, **Rust**, **Elixir**
+  - Languages: **TypeScript**, **Go**, and **Elixir**
 
 - [**profile.place**](https://profile.place) [WIP] ~ All your social profiles in one place. o(〃＾▽＾〃)o
   - Roles: **Frontend**
