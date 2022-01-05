@@ -50,11 +50,13 @@ Thanks for reading this modal I guess? Below are some statistics through out my 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=auguwu&layout=compact&theme=gruvbox)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C582%20hrs%2027%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-55-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 22 Contributions in the Year 2022
+> 🏆 25 Contributions in the Year 2022
  > 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
@@ -68,17 +70,17 @@ Thanks for reading this modal I guess? Below are some statistics through out my 
 
 ```text
 🌞 Morning    344 commits    █████░░░░░░░░░░░░░░░░░░░░   20.28% 
-🌆 Daytime    487 commits    ███████░░░░░░░░░░░░░░░░░░   28.71% 
+🌆 Daytime    486 commits    ███████░░░░░░░░░░░░░░░░░░   28.66% 
 🌃 Evening    730 commits    ██████████░░░░░░░░░░░░░░░   43.04% 
-🌙 Night      135 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   7.96%
+🌙 Night      136 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.02%
 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       172 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.14% 
+Monday       171 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.08% 
 Tuesday      264 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.57% 
-Wednesday    266 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.68% 
+Wednesday    267 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.74% 
 Thursday     274 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.16% 
 Friday       231 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.62% 
 Saturday     262 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.45% 
