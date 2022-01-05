@@ -50,13 +50,13 @@ Thanks for reading this modal I guess? Below are some statistics through out my 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=auguwu&layout=compact&theme=gruvbox)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C582%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C582%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-55-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 16 Contributions in the Year 2022
+> 🏆 17 Contributions in the Year 2022
  > 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
@@ -69,8 +69,8 @@ Thanks for reading this modal I guess? Below are some statistics through out my 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    349 commits    █████░░░░░░░░░░░░░░░░░░░░   20.58% 
-🌆 Daytime    488 commits    ███████░░░░░░░░░░░░░░░░░░   28.77% 
+🌞 Morning    348 commits    █████░░░░░░░░░░░░░░░░░░░░   20.52% 
+🌆 Daytime    489 commits    ███████░░░░░░░░░░░░░░░░░░   28.83% 
 🌃 Evening    724 commits    ██████████░░░░░░░░░░░░░░░   42.69% 
 🌙 Night      135 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   7.96%
 
@@ -78,8 +78,8 @@ Thanks for reading this modal I guess? Below are some statistics through out my 
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       180 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.61% 
-Tuesday      256 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.09% 
+Monday       179 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.55% 
+Tuesday      257 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.15% 
 Wednesday    266 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.68% 
 Thursday     274 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.16% 
 Friday       231 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.62% 
@@ -135,7 +135,7 @@ Python                   4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/auguwu/auguwu/master/charts/bar_graph.png) 
 
 
- Last Updated on 04/01/2022
+ Last Updated on 05/01/2022
 <!--END_SECTION:waka-->
 
 ![](./github-metrics.svg)
