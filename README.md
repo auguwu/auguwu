@@ -50,7 +50,7 @@ Thanks for reading this modal I guess? Below are some statistics through out my 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=auguwu&layout=compact&theme=gruvbox)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C636%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C637%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
