@@ -56,7 +56,7 @@ Thanks for reading this modal I guess? Below are some statistics through out my 
 
 **🐱 My GitHub Data** 
 
-> 🏆 348 Contributions in the Year 2022
+> 🏆 349 Contributions in the Year 2022
  > 
 > 📦 1.6 MB Used in GitHub's Storage 
  > 
