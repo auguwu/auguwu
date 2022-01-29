@@ -50,13 +50,13 @@ Thanks for reading this modal I guess? Below are some statistics through out my 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=auguwu&layout=compact&theme=gruvbox)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C678%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C679%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 594 Contributions in the Year 2022
+> 🏆 589 Contributions in the Year 2022
  > 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
@@ -69,22 +69,22 @@ Thanks for reading this modal I guess? Below are some statistics through out my 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    247 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.44% 
-🌆 Daytime    420 commits    ███████░░░░░░░░░░░░░░░░░░   29.66% 
-🌃 Evening    664 commits    ███████████░░░░░░░░░░░░░░   46.89% 
+🌞 Morning    247 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.43% 
+🌆 Daytime    420 commits    ███████░░░░░░░░░░░░░░░░░░   29.64% 
+🌃 Evening    665 commits    ███████████░░░░░░░░░░░░░░   46.93% 
 🌙 Night      85 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.0%
 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday       146 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.31% 
-Tuesday      186 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.14% 
-Wednesday    221 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.61% 
-Thursday     221 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.61% 
-Friday       215 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.18% 
-Saturday     233 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.45% 
-Sunday       194 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.7%
+Monday       146 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.3% 
+Tuesday      186 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.13% 
+Wednesday    221 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.6% 
+Thursday     221 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.6% 
+Friday       216 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.24% 
+Saturday     233 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.44% 
+Sunday       194 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.69%
 
 ```
 
@@ -135,7 +135,7 @@ Python                   4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/auguwu/auguwu/master/charts/bar_graph.png) 
 
 
- Last Updated on 29/01/2022 04:07:53 UTC
+ Last Updated on 29/01/2022 05:09:43 UTC
 <!--END_SECTION:waka-->
 
 ![](./github-metrics.svg)
