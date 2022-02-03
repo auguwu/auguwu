@@ -50,11 +50,13 @@ Thanks for reading this modal I guess? Below are some statistics through out my 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=auguwu&layout=compact&theme=gruvbox)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C696%20hrs%2057%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-57-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 693 Contributions in the Year 2022
+> 🏆 692 Contributions in the Year 2022
  > 
 > 📦 1.6 MB Used in GitHub's Storage 
  > 
@@ -133,7 +135,7 @@ Python                   4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/auguwu/auguwu/master/charts/bar_graph.png) 
 
 
- Last Updated on 03/02/2022 07:10:10 UTC
+ Last Updated on 03/02/2022 08:10:50 UTC
 <!--END_SECTION:waka-->
 
 ![](./github-metrics.svg)
