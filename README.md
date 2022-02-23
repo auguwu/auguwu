@@ -52,11 +52,11 @@ Thanks for reading this modal I guess? Below are some statistics through out my 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C759%20hrs%2047%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-68-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-76-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,051 Contributions in the Year 2022
+> 🏆 1,054 Contributions in the Year 2022
  > 
 > 📦 1.6 MB Used in GitHub's Storage 
  > 
@@ -64,14 +64,14 @@ Thanks for reading this modal I guess? Below are some statistics through out my 
  > 
 > 📜 29 Public Repositories 
  > 
-> 🔑 24 Private Repositories  
+> 🔑 25 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
 ```text
 🌞 Morning    181 commits    █████░░░░░░░░░░░░░░░░░░░░   22.32% 
-🌆 Daytime    229 commits    ███████░░░░░░░░░░░░░░░░░░   28.24% 
-🌃 Evening    395 commits    ████████████░░░░░░░░░░░░░   48.71% 
+🌆 Daytime    230 commits    ███████░░░░░░░░░░░░░░░░░░   28.36% 
+🌃 Evening    394 commits    ████████████░░░░░░░░░░░░░   48.58% 
 🌙 Night      6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.74%
 
 ```
@@ -122,11 +122,11 @@ Linux                    25 hrs 18 mins      ███████████�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               26 repos            ████████░░░░░░░░░░░░░░░░░   34.67% 
-JavaScript               14 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.67% 
-Kotlin                   11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   14.67% 
-Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.33% 
-Go                       4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.33%
+TypeScript               26 repos            ████████░░░░░░░░░░░░░░░░░   35.14% 
+JavaScript               13 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.57% 
+Kotlin                   11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   14.86% 
+Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.41% 
+Go                       4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.41%
 
 ```
 
@@ -136,7 +136,7 @@ Go                       4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/auguwu/auguwu/master/charts/bar_graph.png) 
 
 
- Last Updated on 23/02/2022 18:11:25 UTC
+ Last Updated on 23/02/2022 20:13:38 UTC
 <!--END_SECTION:waka-->
 
 ![](./github-metrics.svg)
