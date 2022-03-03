@@ -11,10 +11,14 @@
   <a href="https://wakatime.com/@auguwu" target='_blank'>
     <img alt='wakatime res' src='https://wakatime.com/badge/user/89736485-42ec-4c0f-a2f3-481db74514dc.svg' />
   </a>
+  
+  <img src='https://skills.thijs.gg/icons?i=kotlin,go,react,ts,js,tw,docker,prisma' />
 </div>
 
 <hr />
 
-![skills](https://skills.thijs.gg/icons?i=kotlin,go,react,ts,js,tw,docker,prisma)
-![](https://lanyard.cnrad.dev/api/280158289667555328?bg=333333&borderRadius=10px)
+<div align='left'>
+  <img src="https://lanyard.cnrad.dev/api/280158289667555328?bg=333333&borderRadius=10px" />  
+</div>
+
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=auguwu&border_radius=10px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true)
