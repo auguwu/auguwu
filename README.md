@@ -12,7 +12,7 @@
     <img alt='wakatime res' src='https://wakatime.com/badge/user/89736485-42ec-4c0f-a2f3-481db74514dc.svg' />
   </a>
   
-  <img src='https://skills.thijs.gg/icons?i=kotlin,go,react,ts,js,tailwind,docker,prisma,cloudflare,git,k8s,nodejs,postgres,redis' />
+  <img src='https://skills.thijs.gg/icons?i=kotlin,go,react,ts,js,tailwind,docker,prisma,cloudflare,git,k8s,nodejs,postgres,redis,nextjs,prometheus,grafana' />
 </div>
 
 <hr />
