@@ -12,7 +12,11 @@
     <img alt='wakatime res' src='https://wakatime.com/badge/user/89736485-42ec-4c0f-a2f3-481db74514dc.svg' />
   </a>
   
-  <img src='https://skills.thijs.gg/icons?i=kotlin,go,react,ts,tailwind,docker,cloudflare,git,k8s,nodejs,postgres,redis,nextjs,prometheus,grafana,discord,vue,bots,java,gatsby,graphql,idea,js,linux,md,sass,workers' />
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src='https://skillicons.dev/icons?i=kotlin,go,react,ts,tailwind,docker,cloudflare,git,k8s,nodejs,postgres,redis,nextjs,prometheus,grafana,discord,vue,bots,java,gatsby,graphql,idea,js,linux,md,sass,workers' />
+    </a>
+  </p>
 </div>
 
 <hr />
