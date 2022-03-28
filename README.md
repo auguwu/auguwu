@@ -1,6 +1,6 @@
 <div align='center'>
   <h1>Noel 🐾</h1>
-  <blockquote><i>17 year old developer that does the coding in his room, and... sometimes it compiles correctly! ♡(˶╹̆ ▿╹̆˵)و✧♡</i></blockquote>
+  <blockquote><i>18 year old developer that does the coding in his room, and... sometimes it compiles correctly! ♡(˶╹̆ ▿╹̆˵)و✧♡</i></blockquote>
 
   <br />
 
