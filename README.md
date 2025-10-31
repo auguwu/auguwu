@@ -9,7 +9,7 @@ Hewoo!! I am Noel, a 21 year old polar bear that writes code on the internet. Ri
 ## Projects
 * [💐 `ume`](https://floofy.dev/oss/ume) [Rust]: Service that easily hosts screenshots that can be distributed on platforms with a URI.
 * [💵 `vscode-insiders-nix`](https://github.com/auguwu/vscode-insiders-nix) [Nix]: A Nix flake that distributes **Visual Studio Code - Insiders** builds.
-* [🐾✨ `Noel`](https://github.com/auguwu/Noel) [Kotlin]: Discord bot that manages my servers easily.
+* [🐾✨ `Noel`](https://github.com/auguwu/Noel) [Java]: Discord bot that manages my servers easily.
 * (**coming soon**) 🎐 `mizu` [C++]: Declaratively build DNS records that can be pushed to Cloudflare and other DNS providers with the Nix language.
 
 ## GitHub Actions
