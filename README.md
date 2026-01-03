@@ -1,10 +1,10 @@
-## Noel [he/him]
-### *full time polar bear on the internet*
+## Chris [he/him]
+### *21 year old fullstack engineer*
 <a href='https://discord.com/users/280158289667555328' target='_blank'><img alt="discord status" src="https://api.statusbadges.me/badge/status/280158289667555328" /></a>
 <img alt="who viewed me owo" src="https://komarev.com/ghpvc/?username=auguwu" />
 <img alt='Pronouns' src='https://img.shields.io/endpoint?url=https://pronoundb.org/shields/6004d014406af11e4593a013' />
 
-Hello, welcome to my GitHub page! I am Noel, a 21 year old polar bear that writes code on the internet~! I am proficient in **Kotlin**, **Rust**, **Go**, and **TypeScript**. Right now, I am focusing on building software that helps me personally and in hopes that helps you as well!
+Hello, welcome to my GitHub page! I am Noel, a 21 year old that writes code on the internet~! I am proficient in **Kotlin**, **Rust**, **Go**, and **TypeScript**. Right now, I am focusing on building software that helps me personally and in hopes that helps you as well!
 
 ## Projects
 * [💐 `ume`](https://floofy.dev/oss/ume) [Rust]: Service that easily hosts screenshots that can be distributed on platforms with a URI.
