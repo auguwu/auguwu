@@ -10,6 +10,7 @@ Hello, welcome to my GitHub page! I am Noel, a 21 year old that writes code on t
 * [💐 `ume`](https://floofy.dev/oss/ume) [Rust]: Service that easily hosts screenshots that can be distributed on platforms with a URI.
 * [💵 `vscode-insiders-nix`](https://github.com/auguwu/vscode-insiders-nix) [Nix]: A Nix flake that distributes **Visual Studio Code - Insiders** builds.
 * [🐾✨ `Noel`](https://github.com/auguwu/Noel) [Java]: Discord bot that manages my servers easily.
+* [🏳️‍⚧️ `logrin`](https://github.com/auguwu/logrin) [C++]: Modern, async-aware C++20 logging framework
 
 <!--
 * [🎐 `mizu`](https://github.com/auguwu/mizu) [C++]: Declaratively build DNS records that can be pushed to Cloudflare and other DNS providers with the Nix language.
